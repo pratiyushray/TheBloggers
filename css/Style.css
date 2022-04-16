@@ -173,7 +173,7 @@ p{
 
 /* --------------- Site title ---------------- */
 main .site-title{
-    background: url('../assets/Background-image.png');
+    background: url('../assets/Background-image.jpg');
     background-size: cover;
     height: 110vh;
     display: flex;
@@ -183,7 +183,7 @@ main .site-title{
 main .site-title .site-background{
     padding-top: 10rem;
     text-align: center;
-    color: var(--white);
+    color: black;
 }
 
 main .site-title h1, h3{
